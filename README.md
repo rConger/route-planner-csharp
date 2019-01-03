@@ -4,6 +4,9 @@ Routing and scheduling sample application using arcgis.com directions (network a
 
 ![App](https://raw.github.com/Esri/route-planner-csharp/master/RoutePlanner80.png)
 
+## Notice of Support and Updates Ending
+As of December 31, 2018, official Esri support and contribution to this sample has ended. Some components of this project have become out-of-date and it is no longer practical for the project as a whole to be maintained. The project as-built will continue to run when utilizing on-premise (ArcGIS Server) service endpoints for Route, Solve Vehicle Routing Problem, and Geocode. However the project will cease to function using cloud services in early 2019 when ArcGIS Online suport for Transport Layer Security (TLS) Protocol Support 1.0/1/1 support ends.  For more information on this change and its impact, see https://support.esri.com/en/tls 
+
 ## Features
 
 Route Planner is a complete sample application for scheduling multiple vehicles.  Describe your routes, import your orders, build routes, and send driving directions to your drivers.
